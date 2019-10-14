@@ -1,0 +1,18 @@
+﻿									Deal or No Deal rules!
+
+
+			- The show starts with 20 identical sealed boxes
+			- There are 19 boxes on the wings each containing an amount of money between 1p and 1000K $.
+			- At the start of the game the player selects a numbered box at random.
+			- The player aim is to sell that box back to The Banker for the most amount of money possible
+			- The independent adjudicator loads and seals all the boxes. No one but the independent adjudicator knows what is in the boxes.
+			- In the first round the player must choose five boxes before the first offer from The Banker
+			  The Banker places his opening offer into the capsule, which gets sent to Noel in the loot shoot
+			  If the player successfully predicts the opening offer (within 10%) they gain a one-time use of the Offer Button,
+			  which can be pressed at any time during the game. When pushed, The Banker must immediately call to make an offer.
+			- Noel asks, Deal or No Deal? The player must answer, Deal to accept the offer or No Deal to decline the offer and carry on.
+			- Three boxes are opened in the second, third, fourth and fifth rounds, followed by the question from Noel
+			- If you decide to No Deal you will continue in this fashion until only two boxes remain.
+			- If you accept an offer by saying Deal, the game is still played out in exactly the same way,
+			  in order for the player to see what they could have won if they’d carried on.
+

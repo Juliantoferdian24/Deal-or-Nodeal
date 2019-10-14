@@ -1,0 +1,6 @@
+						USERNAME		SCORE		DEAL
+							Ferdian			300000		GOOD DEAL
+							proglan			1000		BAD DEAL
+							lalala			15000		GOOD DEAL
+							OP			500		BAD DEAL
+							nathan			500		BAD DEAL
