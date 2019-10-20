@@ -1,5 +1,7 @@
 # Deal-or-Nodeal
-SEMI PROJECT Kelompok20 Pemrograman Lanjut 01.
+SEMI PROJECT 
+Pemrograman Lanjut 01.
+Kelompok20 
 
 Developed by :  
 - Ferdian Julianto  (1806200311)
